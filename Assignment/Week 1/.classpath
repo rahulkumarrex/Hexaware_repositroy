@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry excluding="Collections/src/|Java Funadmentals/src/|OOPsConcepts/src/|DataTypes/src/|jdbc/" kind="src" path=""/>
+	<classpathentry kind="src" path="Collections/src"/>
+	<classpathentry kind="src" path="DataTypes/src"/>
+	<classpathentry kind="src" path="Java Funadmentals/src"/>
+	<classpathentry kind="src" path="jdbc"/>
+	<classpathentry kind="src" path="OOPsConcepts/src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/5"/>
+	<classpathentry kind="output" path="Collections/out/production/Collections"/>
+</classpath>
